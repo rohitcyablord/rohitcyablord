@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohitcyablord
-- 👀 I’m interested in developing 
+- 👋 Hi, I’m @rohitcyablord / Rohit Mahindrakar
+- 👀 I’m interested in developing tools
 - 🌱 I’m currently learning how to live
-- 📫 How to reach me @rohit_cyablor on twitter.
+- 📫 reach me @rohit_cyablor on twitter.
 
 <!---
 rohitcyablord/rohitcyablord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
